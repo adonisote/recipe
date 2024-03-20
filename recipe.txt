@@ -1,5 +1,7 @@
 # Perfect empanadas 
-## This change is being made on branch main
+
+## Working in branch b, merged with main
+##Conflict posible
 
 Ingredients:
 1kg Flour
@@ -17,4 +19,5 @@ Instructions:
 7. Put some chess and oninons in the middle
 8. Fry it
 
-Author: Adonis
+Co-Chef: Fernando Boniton
+By: Adonis
